@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://hackroll.github.io
 title: Hack 'n Roll
 tagline: Knowledge is Power
-description: Tentando dominar o mundo com o poder do Rock e do JavaScript, criando um hackerspace para todos que querem aprender!
+description: Tentando dominar o mundo com o poder do Rock e do JavaScript
 paginate: 3
